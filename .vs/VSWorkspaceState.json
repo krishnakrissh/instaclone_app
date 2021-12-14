@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\src",
+    "\\src\\Components",
+    "\\src\\Components\\Loginpage"
   ],
   "SelectedNode": "\\src\\App.js",
   "PreviewInSolutionExplorer": false
